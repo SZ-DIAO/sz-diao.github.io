@@ -23,12 +23,12 @@ repository               : "sz-diao/sz-diao.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name            : "Shuzhen Diao"
-  pronouns     : # example: 
-  bio                : "Nankai University"
-  location        : "Tianjin, China"
-  email            : "diaoshuzhen@mail.nankai.edu.cn." 
+  avatar           : "/images/profile.png"
+  name             : "Shuzhen Diao"
+  bio              : "Nankai University"
+  location         : "Tianjin, China"
+  email            : "diaoshuzhen@mail.nankai.edu.cn"
+  orcid            : "https://orcid.org/0009-0001-3399-6735"
 
   # Academic websites
   orcid            :  "https://orcid.org/0009-0001-3399-6735"
