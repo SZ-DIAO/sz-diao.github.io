@@ -24,12 +24,10 @@ repository               : "sz-diao/sz-diao.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Shuzhen Diao"
-  pronouns         : # example: 
-  bio              : "Nankai University"
-  location         : "Tianjin, China"
-  employer         : 
-  uri              : 
+  name            : "Shuzhen Diao"
+  pronouns     : # example: 
+  bio                : "Nankai University"
+  location        : "Tianjin, China"
   email            : "diaoshuzhen@mail.nankai.edu.cn." 
 
   # Academic websites
