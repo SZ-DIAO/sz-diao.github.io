@@ -41,13 +41,17 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
-.page__content h2 {
+/* 缩小 About Me 和 News 标题 */
+.page__content h1 {
   font-size: 1.4rem !important;
-  margin-top: 1.5rem !important;
+  margin-top: 1rem !important;
   margin-bottom: 0.8rem !important;
 }
 
-/* 缩小列表文字 */
+/* 缩小列表文字 + 灰色横线 */
 .page__content li {
   font-size: 0.95rem !important;
+  border-bottom: 1px solid #eee !important;
+  padding-bottom: 6px !important;
+  margin-bottom: 6px !important;
 }
