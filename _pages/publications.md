@@ -15,13 +15,13 @@ author_profile: true
 <div class="paper-container">
   <!-- Left side: GIF -->
   <div class="gif-container">
-    <img src="zhaiExtendedKalmanFilteringBased2025.jpg" alt="GIF Description" class="paper-gif">
+    <img src="2025Robot" alt="GIF Description" class="paper-gif">
   </div>
   <!-- Right side: Paper Information -->
   <div class="info-container">
-    <p class="paper-title">Extended Kalman filtering-based nonlinear model predictive control for underactuated systems with multiple constraints and obstacle avoidance </p>
-    <p class="authors"> <b>Meng Zhai</b>, Tong Yang, Qingxiang Wu, Shudong Guo, Ruiping Pang, and Ning Sun </p>
-    <p class="journal"> <b>IEEE Transactions on Cybernetics</b>, vol. 55, no. 1, pp. 369-382, Jan. 2025 </p>
+    <p class="paper-title">基于迟滞逆补偿的气动人工肌肉并联机器人同步控制 </p>
+    <p class="authors"> <b>刁淑贞</b>, 张欣霖，刘根娣，秦岩丁，方勇纯，孙宁 </p>
+    <p class="journal"> <b>机器人</b>, vol. 47, no. 2, pp. 145-154,  2025 </p>
     <p class="url"> [<a href="https://ieeexplore.ieee.org/document/10752633/?arnumber=10752633">Paper</a>] </p>
   </div>
 </div>
