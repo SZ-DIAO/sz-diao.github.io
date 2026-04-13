@@ -36,7 +36,7 @@ author_profile: true
     <p class="paper-title">Velocity feedback-free synchronous control for pneumatic artificial muscle-actuated parallel robots with fractional-order hysteresis </p>
     <p class="authors"> <b>Shuzhen Diao</b>, Gendi Liu, Xinlin Zhang, Jing Zhao, Yanding Qin, Wei Sun, and Ning Sun </p>
     <p class="journal"> <b>IEEE Transactions on Industrial Electronic</b>, vol. 72, no. 11, pp. 11725-11735, 2025. </p>
-    <p class="url">[<a href="https://youtu.be/x8FWkpmgx7c" target="_blank">Video</a>] [<a href="https://youtu.be/x8FWkpmgx7c" target="_blank">Video</a>]</p>
+    <p class="url">[<a href=https://ieeexplore.ieee.org/document/10990128" target="_blank">Paper</a>] [<a href="https://youtu.be/x8FWkpmgx7c" target="_blank">Video</a>]</p>
   </div>
 </div>
 
