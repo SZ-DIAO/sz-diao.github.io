@@ -15,7 +15,7 @@ author_profile: true
 <div class="paper-container">
   <!-- Left side: GIF -->
   <div class="gif-container">
-    <img src="Robot2025" alt="GIF Description" class="paper-gif">
+    <img src="DSZRobot2025.jpg" alt="GIF Description" class="paper-gif">
   </div>
   <!-- Right side: Paper Information -->
   <div class="info-container">
@@ -29,7 +29,7 @@ author_profile: true
 <div class="paper-container">
   <!-- Left side: GIF -->
   <div class="gif-container">
-    <img src="TIE2025.jpg" alt="GIF Description" class="paper-gif">
+    <img src="DSZTIE2025.jpg" alt="GIF Description" class="paper-gif">
   </div>
   <!-- Right side: Paper Information -->
   <div class="info-container">
