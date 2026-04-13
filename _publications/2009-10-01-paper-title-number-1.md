@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "基于迟滞逆补偿的气动人工肌肉并联机器人同步控制"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
