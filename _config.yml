@@ -23,7 +23,7 @@ repository               : "sz-diao/sz-diao.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/sdiao.png"
+  avatar           : "/images/sz_diao.png"
   name             : "Shuzhen Diao"
   bio              : "Nankai University"
   location         : "Tianjin, China"
