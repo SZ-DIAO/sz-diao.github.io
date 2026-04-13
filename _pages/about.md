@@ -1,20 +1,3 @@
-<style>
-/* 强制缩小标题 */
-.page__content h1,
-.page__content h2 {
-  font-size: 1.2rem !important;
-  margin-top: 1rem !important;
-  margin-bottom: 0.5rem !important;
-}
-
-/* 强制缩小文字 + 灰色横线 */
-.page__content li {
-  font-size: 0.9rem !important;
-  border-bottom: 1px solid #eee !important;
-  padding-bottom: 5px !important;
-  margin-bottom: 5px !important;
-}
-</style>
 ---
 permalink: /
 title: "👋 Welcome to Shuzhen Diao's  Homepage!"
